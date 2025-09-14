@@ -9,6 +9,21 @@ Aethenheim is funded primarily by the good will of the players.
 I.e there will be no P2W aspect and no special discord ranks or anything silly
 like that (infact we do not have and will never have a discord, as it's a degenerate hellscape).
 
+The community is rated 17+. This means we do not
+willingly or knowingly allow anyone under that age to play here.
+If detected the minecraft account will be permbanned.
+Ex: Someone at the age of 13 joins. Gets caught = Permbanned for 5 years.
+
+The following countries or parts of countries are permabanned due to either ping
+or because they are pieces of shit.
+
+West USA (Ping)
+Russia (naturally, it has less to do with the war and more so with Russians being annoying drunk shitheads, also because they refuse to write in English)
+France (for refusing to write in English)
+UK (For larping 1984 and because they are retarded)
+China (for not being trustworthy)
+The entirety of Africa (Ping and because of corruption)
+All muslim majority countries besides Turkey. (Religious fundementalists have no place in the digital age).
 
 
 ## Aethenheim SMP MC server
