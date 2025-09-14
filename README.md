@@ -66,3 +66,9 @@ Now to the good stuff:
     * On the flipside, block damage is persistent. The blocks regenerate themselves after 30 minutes.
     * This counts for blocks you place yourself too, so be carefull.
   * Beds in the farlands break after 3 respawns.
+
+* Mending has been nerfed with the Unmending mod.
+* Anvil has been buffed and is easier to maintain.
+* Elytra has been nerfed, temporarily with Firework rockets dealing 15% durability damage to the Elytra.
+  * When Aileron Mod is updated, it will be used instead.
+
