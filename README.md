@@ -45,6 +45,16 @@ Conclusion: IDGAF!
 
 Now to the good stuff:
 
+Aethenheim will update to "The Copper Age" when all mods are ready for it.
+After that, we will lock down Aethenheim to that version and stay up to 1 year behind.
+The reason is that we depend on a bunch of mods for the changes and it's unreasonable to expect
+mod authors to update constantly. Especially now when Mojang has decided to do these shitty gamedrops.
+Besides, in the view of your humble founder, I think Mojang
+is eating shit quite literally and both them and their overlords
+at Microsoft is beyond incompetent.
+
+For now. Aethenheim stays on Version 1.21.7
+
 ### Major changes from vanilla smp minecraft
 
 * Tectonic generator with some minor tweaks.
@@ -71,4 +81,6 @@ Now to the good stuff:
 * Anvil has been buffed and is easier to maintain.
 * Elytra has been nerfed, temporarily with Firework rockets dealing 15% durability damage to the Elytra.
   * When Aileron Mod is updated, it will be used instead.
+
+* BetterCombat and 
 
