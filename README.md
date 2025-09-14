@@ -99,10 +99,36 @@ For now. Aethenheim stays on Version 1.21.7
     * This counts for blocks you place yourself too, so be carefull.
   * Beds in the farlands break after 3 respawns.
 
-* Mending has been nerfed with the Unmending mod.
+* Mending has been nerfed with the Unmending mod. See the following points (cited from modpage)
+  * Items that already have the Mending enchantment will no longer repair with XP.
+  * Mending can no longer be applied as an enchantment.
+  * Applying a Mending book to an item resets the "extra repair cost" that accumulates as you repair an item, thus preventing "Too Expensive!". You can do this as many times as you want.
 * Anvil has been buffed and is easier to maintain.
 * Elytra has been nerfed, temporarily with Firework rockets dealing 15% durability damage to the Elytra.
   * When Aileron Mod is updated, it will be used instead.
+* BetterCombat and Simply Sword will be installed as soon as they update to 1.21.7
 
-* BetterCombat and 
+* Some ideas by Spadez implemented in modified form:
+  * Vanilla Ore Spawns Nerfed overall (from 1x to 0.5x the vanilla value)
+    * Certain biomes contain more of certain ores.
+    * For example, all desert biomes are generally really good places to find Coal and the veins can be up to 2 times larger than vanilla.
+    * The distribution is inspired by IRL, but not perfectly so.
+    * Some ores can ONLY be found in certain biomes. For example Lapus Lazuli is only found in cold and freezing biomes.
+    * Badlands is the definite gold place, rarely gold veins can be up to 3x larger than vanilla.
+  * All positive potion timers increased by +1 minute as base or x2 depending on how strong they are and what they do.
+    * Certain potions, like potion of leaping, is 1 block/dmg etc stronger by default.
+    * Some more examples. Fire Resistance increased by +2 minutes, Turtle Master x2 current timer etc.
+  * Bosses no longer immune to potion effects, instead potion effects are half as effective on them.
+  * Impaling now works like on bedrock. 
+  * Drop chance for trident changed to Bedrock.
+  * Trident's durability doubled.
+  * Multishot on crossbow now can strike the same enemy with all arrows, the second arrow deals 75% damage and the third deals 50% damage.
+  * Multishot is now 3 degrees instead of 10.
+  * Crossbows now deal extra damage depending on distance. From 50% extra damage (2 blocks) to 10% extra damage (7 blocks)
+  * Netherite gear now acts like Elytra, no longer breaking and disappearing.
+    * Netherite Armor gives protection equal to something inbetween Iron and Diamond if it breaks.
+    * Weapons and tools act like Iron Tier when broken.
+  
+  
+    
 
