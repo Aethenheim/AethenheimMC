@@ -119,16 +119,20 @@ For now. Aethenheim stays on Version 1.21.7
     * Certain potions, like potion of leaping, is 1 block/dmg etc stronger by default.
     * Some more examples. Fire Resistance increased by +2 minutes, Turtle Master x2 current timer etc.
   * Bosses no longer immune to potion effects, instead potion effects are half as effective on them.
-  * Impaling now works like on bedrock. 
+  * Impaling now works like on Bedrock (all enemies touching water take extra damage, does not effect Drowned that have spawned with a trident of their own). 
   * Drop chance for trident changed to Bedrock.
   * Trident's durability doubled.
+  * Tridents Loyality Enchantment improved. When the loyality enchantment takes effect, it will teleport straight to you after 5 seconds.
   * Multishot on crossbow now can strike the same enemy with all arrows, the second arrow deals 75% damage and the third deals 50% damage.
   * Multishot is now 3 degrees instead of 10.
   * Crossbows now deal extra damage depending on distance. From 50% extra damage (2 blocks) to 10% extra damage (7 blocks)
   * Netherite gear now acts like Elytra, no longer breaking and disappearing.
     * Netherite Armor gives protection equal to something inbetween Iron and Diamond if it breaks.
     * Weapons and tools act like Iron Tier when broken.
-  
+  * Armor and whatever you had in your hands do not drop on death if you have not been attack by a player in the last 15 seconds.
+    * Still drop everything in the Farlands.
+    * When killed by a player (unless it's Farlands): Drop inventory and 2 random pieces from what you are wearing.
+      * You will also drop a random weapon from your inventory.
   
     
 
