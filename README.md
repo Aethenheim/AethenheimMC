@@ -1,0 +1,2 @@
+# AethenheimMC
+Aethenheims MC server.
