@@ -17,14 +17,21 @@ Ex: Someone at the age of 13 joins. Gets caught = Permbanned for 5 years.
 The following countries or parts of countries are permabanned due to either ping
 or because they are pieces of shit.
 
-West USA (Ping)
-Russia (naturally, it has less to do with the war and more so with Russians being annoying drunk shitheads, also because they refuse to write in English)
-France (for refusing to write in English)
-UK (For larping 1984 and because they are retarded)
-China (for not being trustworthy)
-The entirety of Africa (Ping and because of corruption)
-All muslim majority countries besides Turkey. (Religious fundementalists have no place in the digital age).
+* West USA (Ping)
+* Russia (naturally, it has less to do with the war and more so with Russians being annoying drunk shitheads, also because they refuse to write in English)
+* France (for refusing to write in English)
+* UK (For larping 1984 and because they are retarded)
+* China (for not being trustworthy)
+* The entirety of Africa (Ping and because of corruption)
+* All muslim majority countries besides Turkey. (Religious fundementalists have no place in the digital age).
+* Any other country that exceeds 130 ms to the server.
 
+There'a a small secret variation of 1-10 seconds where a ping higher than 130 ms is tolerated.
+If this happens more than 3 times in a period of 1-6 hours while connected, the user
+will automatically get tempbanned (both account and IP address) for 6 hours.
+
+If it happens again, the next ban will be 24 hours.
+The third time, the ban will be 
 
 ## Aethenheim SMP MC server
 
