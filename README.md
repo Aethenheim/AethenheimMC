@@ -133,6 +133,20 @@ For now. Aethenheim stays on Version 1.21.7
     * Still drop everything in the Farlands.
     * When killed by a player (unless it's Farlands): Drop inventory and 2 random pieces from what you are wearing.
       * You will also drop a random weapon from your inventory.
+  * Chainmail armor recipe added.
+  * Chainmail tweaked:
+    * Each piece of chainmail adds 5% resistance to ranged attacks (i.e arrows).
+    * Armor values are similar to leather.
+  * Rose Gold tier added.
+  * Leather idea implemented, 1 leather splits into 4 small leather.
+  * Small leather is used instead of the Leather Armor recipes.
+  * New item: Leather Shield. Uses the same recipe as a shield, but is made with leather instead.
+  
+* Added Amethyst lanterns
+  * Gives off a purple glow, but very muted (almost none in range).
+  * Has a invisible range representing twice the range of the torch.
+  * Prevents mob spawns in this invisible range.
+  * Can be tuned by rightclicking with a amethyst in your left hand to make the invisible range, visible like a typical lantern.
   
     
 
