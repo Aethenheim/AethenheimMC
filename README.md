@@ -49,7 +49,20 @@ Now to the good stuff:
 
 * Tectonic generator with some minor tweaks.
 * World height increased by a total of 256 blocks, with half for Deep and Half for overworld (Basically means Y-level -64 to Y-level 319 becomes Y-level -192 to Y-level 447)
-** All generations stretched vertically to compensate, for example oceans are even deeper than tectonics defaults.
+* All generations stretched vertically to compensate, for example oceans are even deeper than tectonics defaults.
 * Everything within 5000 x 5000 = Admin Zone. This is where events and other things take place.
-* Everything after 25k to 125k = Permission based raiding. Players must agree to raid eachother. No Griefing.
-* Everything 
+* Everything after 5k to 105k = Permission based raiding. Players must agree to raid eachother. No Griefing. Unclaimed stuff are fair game.
+* Everything after 105k starts dividing into sectors, where the rewards are increased ore generation, but also more danger:
+  * Every 200k blocks further outwards (besides the first sector which is 195k blocks, so sector 1 is 105k to 295k, sector 2 is 200k to 400k and so on), mobs gain 1 more heart to their max health, deal half a heart more damage, and drop 5% more experience. They also
+    drop 1 more of range spanning items. For example if a vanilla mob drops 3-5 feathers, in sector 1 they'd drop 3-6 feathers, in sector 2 3-7 feathers and so on.
+* There are a total of 30 sectors, with the last sector beginning at 6105000+ and onwards.
+* After sector 20, you do not need to ask permission to raid someone, but you cannot grief (for example you may break down doors to find a chest and steal everything).
+
+* After 20 000 000 blocks, you arrive in the Farlands.
+  * Farlands is simply a nod towards the old glitch, it's not actually a biome like that generation.
+  * Farlands are a completely lawless zone.
+  * The rewards are the greatest in the Farlands, and it's the only place where you can enchant weapons with Looting 4 and 5 (and other luck based enchantments)
+  * In the Farlands, you can grief buildings freely. But you will find that blocks placed by players break 8 times slower (with doors being up to 12 times slower)
+    * On the flipside, block damage is persistent. The blocks regenerate themselves after 30 minutes.
+    * This counts for blocks you place yourself too, so be carefull.
+  * Beds in the farlands break after 3 respawns.
