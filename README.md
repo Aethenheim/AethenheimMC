@@ -147,6 +147,21 @@ For now. Aethenheim stays on Version 1.21.7
   * Has a invisible range representing twice the range of the torch.
   * Prevents mob spawns in this invisible range.
   * Can be tuned by rightclicking with a amethyst in your left hand to make the invisible range, visible like a typical lantern.
+
+* Enchanting rework.
+  * Vanilla enchantment table cannot be used, it is instead a stepping stone to be used in a mod's recipe.
+  * Enchantments are now done in the new table from the Enchanting Infuser table from the Enchanting Infuser mod.
+    * The reason for this change is to delay access to enchantments. They are currently WAY to fucking strong.
+  * Certain enchantments nerfed depending on weapon/tool/armor:
+    * Iron Tier can only get Unbreaking I and Effeciency II
+    * Diamond Tier can only get Unbreaking III and Effeciency III
+  * Effeciency V removed.
+  * The effects of ALL Vanilla enchantments have been slashed in half.
+  * Certain enchantment have been made treasure only: Effeciency II, Effeciency IV (4), Unbreaking III.
+ 
+* True Ending - Ender Dragon Overhaul added.
+
+
   
     
 
