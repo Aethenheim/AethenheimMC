@@ -8,7 +8,7 @@ NOTE: Aethenheim has a mod that is a required install, it is part of rule enforc
    2. This server is NOT a safe space or whatever nonsense you can imagine, do not play on this server if you can't deal with banter.
 4. Even if it's 17+, Aethenheim is primarily about the game. It's not 2b2t, targetted harassment will not be tolerated.
 5. LGBTQ Alphabhet soup is banned. Again this is not your safe space, this is my server, my rules. We are here to play a game, not
-   for you to flaunt your perverse degeneracy/attentionwhoring. There's thousands of other Minecraft servers for you to play on
+   for you to spread drama and seek attention. There's thousands of other Minecraft servers for you to play on
    if you feel the need for constant attention. Irrespective of my own opinions, I find that this crowd are only around to cause drama,
    and seek attention + have serious pedo problems.
 6. Certain countries or sections of countries are banned. See the README.MD
