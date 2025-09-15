@@ -29,7 +29,7 @@ NOTE: Aethenheim has a mod that is a required install, it is part of rule enforc
 General punishment guidelines:
 We operate on a Four strikes system
 with a reducing strikes modifier.
-Permbans are actually permanent, they are not appeal-able.
+Permbans are actually permanent, they cannot be appealed.
 
 * Rules 1,2,3,5,7,8,10 and 12  leads to a permban immediatly.
 * The other rules are as follows:
